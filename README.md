@@ -1,2 +1,2 @@
-# yolo-badges
+# yolo-badge
 #yolo badges
